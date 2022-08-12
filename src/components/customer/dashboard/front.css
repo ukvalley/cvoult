@@ -1,0 +1,165 @@
+header {
+    position: relative;
+    background-color: black;
+    height: 75vh;
+    min-height: 25rem;
+    width: 100%;
+  }
+  
+  header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+  }
+  
+  header .container {
+    position: relative;
+    z-index: 2;
+  }
+  
+  header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+  }
+  
+  /* Media Query for devices withi coarse pointers and no hover functionality */
+  
+  /* This will use a fallback image instead of a video for devices that commonly do not support the HTML5 video element */
+  
+  body{
+     background-color: 382853;
+  }
+  
+   header {
+    position: relative;
+    background-color: #382853;
+    height: 75vh;
+    min-height: 25rem;
+    width: 100%;
+  }
+  
+  header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+  }
+  
+  header .container {
+    position: relative;
+    z-index: 2;
+  }
+  
+  header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+  }
+  
+  /* Media Query for devices withi coarse pointers and no hover functionality */
+  
+  /* This will use a fallback image instead of a video for devices that commonly do not support the HTML5 video element */
+  
+  .blog{
+    color:#fff;
+    font-weight: 700;
+  }
+  
+  
+  
+  /* --- CSS --- */
+  .background {
+      height:100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-size: cover;
+      background-position: center;
+  }
+  
+  .background > h4 {
+  
+      color: #fff;
+      font-size: 2em;
+      font-family: sans-serif;
+  }
+  
+  
+    
+  .transaction1{
+  
+    background-color: rgb(20, 241, 149);
+  
+  }
+  
+  .card{
+    background-color: #858484
+  }
+  
+  .image-height{
+    height: 488px;
+  }
+  .card1{
+    background-color: rgb(235, 84, 188);
+        border: 1px solid;
+      border-radius: 31px;
+  }
+  
+  
+  .card2{
+    background-color: rgb(20, 241, 149);
+        border: 1px solid;
+      border-radius: 31px;
+  }
+
+  .card5{
+    background-color: rgb(15, 19, 17);
+    border: 1px solid;
+      border-radius: 31px;
+      padding: 3%;
+
+  }
+  
+  
+  
+  .card3{
+    background-color: rgb(128, 236, 255);
+        border: 1px solid;
+      border-radius: 31px;
+  }
+  
+  .btn{
+        border: 1px solid;
+      border-radius: 10px;
+  }
+  
+  
+  

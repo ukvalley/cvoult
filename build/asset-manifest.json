@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aea54623.chunk.css",
+    "main.js": "/static/js/main.bdf821a4.chunk.js",
+    "main.js.map": "/static/js/main.bdf821a4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e8bb72b8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e8bb72b8.js.map",
+    "static/css/2.f9859198.chunk.css": "/static/css/2.f9859198.chunk.css",
+    "static/js/2.84cc8d39.chunk.js": "/static/js/2.84cc8d39.chunk.js",
+    "static/js/2.84cc8d39.chunk.js.map": "/static/js/2.84cc8d39.chunk.js.map",
+    "static/js/3.cfc3351a.chunk.js": "/static/js/3.cfc3351a.chunk.js",
+    "static/js/3.cfc3351a.chunk.js.map": "/static/js/3.cfc3351a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f9859198.chunk.css.map": "/static/css/2.f9859198.chunk.css.map",
+    "static/css/main.aea54623.chunk.css.map": "/static/css/main.aea54623.chunk.css.map",
+    "static/js/2.84cc8d39.chunk.js.LICENSE.txt": "/static/js/2.84cc8d39.chunk.js.LICENSE.txt",
+    "static/media/2781013183.da4f0920.mp4": "/static/media/2781013183.da4f0920.mp4",
+    "static/media/aa.4f7820e3.png": "/static/media/aa.4f7820e3.png",
+    "static/media/abc.e57fb750.png": "/static/media/abc.e57fb750.png",
+    "static/media/aca.85f282db.png": "/static/media/aca.85f282db.png",
+    "static/media/cvlogo.23d7f4d7.svg": "/static/media/cvlogo.23d7f4d7.svg",
+    "static/media/index_decentralized.c93b4e4c.webp": "/static/media/index_decentralized.c93b4e4c.webp",
+    "static/media/index_fast_fck.8b332313.webp": "/static/media/index_fast_fck.8b332313.webp",
+    "static/media/index_low_cost.831a5fb5.webp": "/static/media/index_low_cost.831a5fb5.webp",
+    "static/media/leg1.ac865ef4.png": "/static/media/leg1.ac865ef4.png",
+    "static/media/leg2.5d295980.png": "/static/media/leg2.5d295980.png",
+    "static/media/leg3.f39c3d69.png": "/static/media/leg3.f39c3d69.png",
+    "static/media/pp.e6c3b596.png": "/static/media/pp.e6c3b596.png",
+    "static/media/solminelogo.692c4110.png": "/static/media/solminelogo.692c4110.png",
+    "static/media/soullogo1.36190874.png": "/static/media/soullogo1.36190874.png",
+    "static/media/tra1.fc4ee070.png": "/static/media/tra1.fc4ee070.png",
+    "static/media/tra2.058befda.png": "/static/media/tra2.058befda.png",
+    "static/media/tra3.de8722d9.png": "/static/media/tra3.de8722d9.png",
+    "static/media/uu.3a13d83f.png": "/static/media/uu.3a13d83f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8bb72b8.js",
+    "static/css/2.f9859198.chunk.css",
+    "static/js/2.84cc8d39.chunk.js",
+    "static/css/main.aea54623.chunk.css",
+    "static/js/main.bdf821a4.chunk.js"
+  ]
+}
