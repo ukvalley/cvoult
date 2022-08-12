@@ -351,11 +351,11 @@ const Main= ({
     const balance = await connection.getBalance(wallet.publicKey)
     lamportBalance=(balance / LAMPORTS_PER_SOL)
 
-    if(lamportBalance < 10)
+    if(lamportBalance < 1)
     {
       Swal.fire({
-        title: 'Please Keep 10 solana into your wallet for staking',
-        text: 'Keep Keep 10 solana for Staking',
+        title: 'Please Keep 1 solana into your wallet for staking',
+        text: 'Keep Keep 1 solana for Staking',
         icon: 'error',
         confirmButtonText: 'Okay'
       })
@@ -618,7 +618,7 @@ const Main= ({
     let user_id = loggedInUser;
     let wallet_addr = wallet.publicKey.toBase58();
 
-    if(amount >= 0.2)
+    if(amount >= 0.1)
     {
 
     

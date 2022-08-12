@@ -161,5 +161,37 @@ header {
       border-radius: 10px;
   }
   
+  .wallet-adapter-modal-wrapper{
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    z-index: 1050;
+    max-width: 400px;
+    border-radius: 10px;
+    background: #382853;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.6);
+    font-family: 'Inter', 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    padding: 40px 20px 20px;
+    flex: 1 1;
+  }
+
+  .wallet-adapter-button{
+    background-color: #6c49a8;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    font-family: 'Inter', 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 20px;
+  }
   
   

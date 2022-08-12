@@ -429,7 +429,7 @@ if(loading == false)
                 <form className="myform" onSubmit={handleSubmit}>
                   <div className="text-center text-white">Wallet Address : {walletAddr}</div>
                   <div className="col-lg-12 mt-3">
-                    <label className="text-white">Enter ID Number OR  Enter ID</label>
+                    <label className="text-white">Enter Referral Address</label>
                     <input 
                     type="text" 
                     id='sponsor'
@@ -444,12 +444,12 @@ if(loading == false)
                     
                   <div className="col-lg-12">
                     <button className="btn btn-primary w-100 mt-3" type="submit">
-                     Log ON</button>
+                     Join Now</button>
                   </div>
   
                   
                   <div>
-                    <p className="mb-0 text-center mt-3">
+                    <p className="mb-0 text-center mt-3 border-box">
                     <Link to="/login"> <p>Click to Log In</p> </Link>
        
                     </p>

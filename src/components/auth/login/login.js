@@ -230,14 +230,14 @@ const opts = {
               <form className="myform" onSubmit={handleSubmit}>
                 <div className="text-center text-white">Wallet Address : {walletAddr}</div>
                 <div className="col-lg-12 mt-3">
-                  <label className="text-white">Enter ID Number OR  Enter ID</label>
+                  <label className="text-white">Enter Wallet Address OR Login With Wallet</label>
                   <input
                     type="text" 
                     id='idnumber'
                     
                     required={true}
                     className="form-control trial-input"
-                    placeholder="Enter ID Number OR  Enter ID"
+                    placeholder="Enter Wallet Address"
                   />
                 </div>
                 
@@ -260,8 +260,8 @@ const opts = {
                 </div></center>
 
                 <div>
-                  <p className="mb-0 text-center mt-3">
-                  <Link to="/register"> <p>Not Registered yet, Login here</p> </Link>
+                  <p className="mb-0 text-center mt-3 border-box">
+                  <Link to="/register"> <p>Not Registered yet, Sign Up here</p> </Link>
      
                   </p>
                 </div>

@@ -144,7 +144,6 @@ const My_team = ({
       <th>Account Address</th>
       <th>Parent Address</th>
 
-      <th>Level</th>
       <th>Contract Activation</th>
 
     </tr>
@@ -157,7 +156,6 @@ const My_team = ({
       <td>{data.user_id}</td>
       <td>{data.sponcer_id}</td>
 
-      <td>{data.level}</td>
       <td>{data.date}</td>
 
     </tr>

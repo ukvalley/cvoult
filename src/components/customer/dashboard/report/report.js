@@ -131,13 +131,12 @@ const Report = ({
       <div className="table-wrapper">
   <div className="table-scroll">
 
-      <Table striped bordered hover variant="dark">
+      <Table striped="columns" variant="dark" bordered hover  >
   <thead>
     <tr>
       <th>#</th>
       <th>Sender Name</th>
       <th>Amount</th>
-      <th>Level</th>
       <th>Date</th>
       <th>Hash</th>
 
@@ -150,7 +149,6 @@ const Report = ({
       <td>{index+1}</td>
       <td>{transaction.sender}</td>
       <td>{transaction.amount}</td>
-      <th>{transaction.level}</th>
       <td>{transaction.date}</td>
       <td>{transaction.hash}</td>
 

@@ -30,17 +30,17 @@ import { WalletModalProvider, WalletMultiButton } from '@solana/wallet-adapter-r
 }
 const wallets = [
   /* view list of available wallets at https://github.com/solana-labs/wallet-adapter#wallets */
-  getPhantomWallet(),
   getMathWallet(),
+  getSolflareWallet(),
+  getCoin98Wallet(),
+  getPhantomWallet(),
    getSolletWallet(),
-   getSolflareWallet(),
-   getCoin98Wallet(),
 ]
 
 function App() {
 
 
-   document.title = 'SOLMINE';
+   document.title = 'CRYPTOVOULT';
     const wallet = useWallet();
 
     

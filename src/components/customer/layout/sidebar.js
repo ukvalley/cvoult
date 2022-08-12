@@ -67,8 +67,9 @@ const Aside = ({ image, collapsed, rtl, toggled, handleToggleSidebar }) => {
             title='Report'
             icon={<FaRegLaughWink />}
           >
-            <MenuItem>Referral Withdrawal Report <Link to="/dashboard/report_withdrawal/withdrawal" /> </MenuItem>
             <MenuItem>staking withdrawal Report <Link to="/dashboard/report_withdrawal/staking_withdrawal" /> </MenuItem>
+
+            <MenuItem>Referral Withdrawal Report <Link to="/dashboard/report_withdrawal/withdrawal" /> </MenuItem>
             <MenuItem>Referral Report <Link to="/dashboard/report/referral" /> </MenuItem>
             <MenuItem>Downline Report <Link to="/dashboard/my_team" /> </MenuItem>
 

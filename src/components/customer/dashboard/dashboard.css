@@ -891,3 +891,16 @@ background: linear-gradient(to right, #2F0743, #41295a); /* W3C, IE 10+/ Edge, F
 .font11{
   font-size: 11px;
 }
+
+
+.table-dark1 {
+  --bs-table-bg: #3f093c;
+  --bs-table-striped-bg: #2d0c53;
+  --bs-table-striped-color: #fff;
+  --bs-table-active-bg: #3a1b42;
+  --bs-table-active-color: #fff;
+  --bs-table-hover-bg: #3a1b42;
+  --bs-table-hover-color: #fff;
+  color: #fff;
+  border-color: #3a1b42;
+}
